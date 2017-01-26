@@ -1,0 +1,9 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "Playground for ITOS replacement",
+  "dependencies": {
+    "request": "2.72.0"
+  },
+  "main": "index.js",
+}
